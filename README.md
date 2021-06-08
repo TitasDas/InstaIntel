@@ -34,7 +34,7 @@ For a more extensive list of resources and future references the following 'awes
 - [Papers on zero shot object detection](https://github.com/amusi/awesome-object-detection) : an older collection that has a few papers on zero shot object-detection and no implementations.
 - [A collection of papers/code on few shot learning](https://github.com/Duan-JM/awesome-papers-fewshot) : 
 - [Papers and implementations of image captioning](https://github.com/forence/Awesome-Visual-Captioning) :
-- [Datasets and popular implementations of image captioning](https://ghttps://github.com/zhjohnchan/awesome-image-captioning) : implementations based on tools like pytorch and tensorflow
+- [Datasets and popular implementations of image captioning](https://ghttps://github.com/zhjohnchan/awesome-image-captioning) : code using pytorch and tensorflow
 
 
 ## Useful tools
