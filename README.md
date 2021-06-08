@@ -24,8 +24,8 @@ To uncompress the json files and view the metadata in a readable format you coul
 3. Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification (ECCV 2020) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670477.pdf)  [[code]](https://github.com/akshitac8/tfvaegan) 
 
 #### Image Captioning
-1. Fast Parameter Adaptation for Few-shot Image Captioning (ACM 2018)
-and Visual Question Answering [[paper]](https://xuanyidong.com/resources/papers/ACM-MM-18-FPAIT.pdf) 
+1. Fast Parameter Adaptation for Few-shot Image Captioning
+and Visual Question Answering (ACM 2018) [[paper]](https://xuanyidong.com/resources/papers/ACM-MM-18-FPAIT.pdf) 
 
 
 For a more extensive list of resources and future references the following 'awesome'-github repositories may be useful. 
