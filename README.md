@@ -1,5 +1,5 @@
 # Insights from Images
-This proof of concept focuses on helping the global brand Uniqlo understand consumer behavior. We would be going about this by being able to detect uniqlo products and people in images using zero shot/few shot learning based object detection. After which we would be going on to captioning these images hoping to capture how the user is using the product or anything else that could serve as an actionable insight.
+This proof of concept focuses on helping the global brand Uniqlo understand consumer behavior. We would be going about this by being able to detect uniqlo products and people in images using object detection. After which we would be going on to captioning these images hoping to capture how the user is using the product or anything else that could serve as an actionable insight.
 
 ## Data collected
 
@@ -19,7 +19,7 @@ To uncompress the json files and view the metadata in a readable format you coul
 ## Demo
 ## Public Datasets
 - Zalando's dataset [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) which covers products from their catalogue.
-- A [toy dataset](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)  for zero shot object detection based on Fashion-MNIST. ([paper](https://arxiv.org/pdf/1805.06157.pdf))
+- A [customized dataset](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)  for zero shot object detection based on Fashion-MNIST. ([paper](https://arxiv.org/pdf/1805.06157.pdf))
 
 ## References 
 
