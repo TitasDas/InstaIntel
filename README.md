@@ -15,13 +15,29 @@ To uncompress the json files and view the metadata in a readable format you coul
 
 ##### ** TODO: add a snapshot of the consolidated csv file
 
+
+
 ## Usage
+
+
+
 ## Demo
+
+
+
+
+
+
 ## Public Datasets
 - Zalando's dataset [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) which covers products from their catalogue.
 - A [customized dataset](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)  for zero shot object detection based on Fashion-MNIST. ([paper](https://arxiv.org/pdf/1805.06157.pdf))
+- [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) is a large scale clothes database. Take a look at the benchmarks as well for possible ideas. 
+
+
 
 ## References 
+
+
 
 #### Instance Segmentation
 1. Zero-Shot Instance Segmentation (CVPR 2021) [[paper]](https://arxiv.org/pdf/2104.06601.pdf) [[code]](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation) 
@@ -32,6 +48,10 @@ To uncompress the json files and view the metadata in a readable format you coul
 4. Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification (ECCV 2020) [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670477.pdf)  [[code]](https://github.com/akshitac8/tfvaegan) 
 5. Synthesizing the Unseen for Zero-shot Object Detection (2020) [[paper]](https://arxiv.org/pdf/2010.09425v1.pdf)  [[code]](https://github.com/nasir6/zero_shot_detection).
 3. Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts (2018) [[paper]](https://arxiv.org/abs/1803.06049) [[code]](https://github.com/salman-h-khan/ZSD_Release) 
+
+
+
+
 
 #### Image Captioning
 1. Fast Parameter Adaptation for Few-shot Image Captioning
@@ -48,9 +68,15 @@ For a more extensive list of resources and future references the following 'awes
 - [Datasets and popular implementations of image captioning](https://ghttps://github.com/zhjohnchan/awesome-image-captioning) 
 
 
+
+
+
 ## Useful tools
 - Scraper used to download pictures and other metadata from instagram: [Instaloader](https://instaloader.github.io/) 
 - Data annotation tool for manually labelling products: [Diffgram](https://diffgram.com/) 
 - Object detection and instance segmentation components and modules: [mmdetection](https://github.com/open-mmlab/mmdetection) 
+- An open source visual analysis toolbox which does fashion attribute prediction, in-shop clothes retrieval, fashion parsing and segmentation, fashion landmark (upper body , lower body clothes) detection, fashion compatibility and recommendation and virtual try ons. ***(This is an incredibly useful resource!)*** : [mmfashion](https://github.com/open-mmlab/mmfashion) 
+
+
 ## Feedback and contribution
 
