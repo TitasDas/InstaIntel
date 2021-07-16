@@ -78,5 +78,8 @@ For a more extensive list of resources and future references the following 'awes
 - An open source visual analysis toolbox which does fashion attribute prediction, in-shop clothes retrieval, fashion parsing and segmentation, fashion landmark (upper body , lower body clothes) detection, fashion compatibility and recommendation and virtual try ons. ***(This is an incredibly useful resource!)*** : [mmfashion](https://github.com/open-mmlab/mmfashion) 
 
 
+## Use cases 
+- [How facebook uses computer vision to aid shopping?](https://ai.facebook.com/blog/advancing-ai-to-make-shopping-easier-for-everyone/ ) 
+
 ## Feedback and contribution
 
