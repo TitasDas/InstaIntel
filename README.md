@@ -1,6 +1,12 @@
 # Insights from Images
 This proof of concept focuses on helping the japanese casual wear designer, manufacturer and retailer Uniqlo understand consumer behavior. We would be going about this by being able to detect uniqlo products and people in images using object detection. After which we would be going on to captioning these images hoping to capture how the user is using the product or anything else that could serve as an actionable insight.
 
+## Final results can be found in the following links : 
+- [First iteration results of object detection] (https://docs.google.com/document/d/1leReyR9DA2lXgw79E1_p3VAj1fZOeOz2OR4sFo_Vej8/edit?usp=sharing)
+- [Higher precision object detection] (https://docs.google.com/document/d/1HjyabaysBtBvYmTqeOc6Z8J-7GgFNML8MwzONHhhObE/edit?usp=sharing)
+- [Image Captioning first iteration results] (https://docs.google.com/document/d/132Y-U--M0RVxsyUefTkoba17jXZkz5VRlghiu_AlRlg/edit?usp=sharing)
+- [Presentation on poc of insights from images] (https://docs.google.com/presentation/d/1xgAUwv6C65SMrzRIYnuiyTgX3am_Q37Ett1TVt9ERlo/edit?usp=sharing)
+
 ## Data collected
 
 ##### **Last updated 06/05/2021
