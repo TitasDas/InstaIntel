@@ -1,5 +1,5 @@
 # Insights from Images
-This proof of concept focuses on helping the global brand Uniqlo understand consumer behavior. We would be going about this by being able to detect uniqlo products and people in images using object detection. After which we would be going on to captioning these images hoping to capture how the user is using the product or anything else that could serve as an actionable insight.
+This proof of concept focuses on helping the japanese casual wear designer, manufacturer and retailer Uniqlo understand consumer behavior. We would be going about this by being able to detect uniqlo products and people in images using object detection. After which we would be going on to captioning these images hoping to capture how the user is using the product or anything else that could serve as an actionable insight.
 
 ## Data collected
 
