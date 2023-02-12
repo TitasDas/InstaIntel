@@ -7,6 +7,8 @@ This proof of concept focuses on helping the japanese casual wear designer, manu
 - [Image Captioning first iteration results](https://docs.google.com/document/d/132Y-U--M0RVxsyUefTkoba17jXZkz5VRlghiu_AlRlg/edit?usp=sharing)
 - [Presentation on poc of insights from images](https://docs.google.com/presentation/d/1xgAUwv6C65SMrzRIYnuiyTgX3am_Q37Ett1TVt9ERlo/edit?usp=sharing)
 
+
+
 ## Data collected
 
 ##### **Last updated 06/05/2021
@@ -17,21 +19,6 @@ To uncompress the json files and view the metadata in a readable format you coul
 
 	xzcat 2021-05-31_19-09-24_UTC.json.xz | jq .node
 	
-##### ** TODO: add a short table explaining the various datapoints for quick reference
-
-##### ** TODO: add a snapshot of the consolidated csv file
-
-
-
-## Usage
-
-
-
-## Demo
-
-
-
-
 
 
 ## Public Datasets
